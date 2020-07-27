@@ -1,6 +1,7 @@
 # extract-react-intl-messages
 
-This is fork 
+This is fork.
+Our custom change is merged to upstream. This repo is archived for now, should be deleted after a while.
 
 [![Build Status](https://travis-ci.org/akameco/extract-react-intl-messages.svg?branch=master)](https://travis-ci.org/akameco/extract-react-intl-messages)
 [![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
